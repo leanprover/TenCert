@@ -7,8 +7,8 @@ package "TenCert" where
 require SHerLOC from git
   "https://github.com/leanprover/SHerLOC.git" @ "main"
 
-require ANPU from git
-  "https://github.com/leanprover/ANPU.git" @ "main"
+require NKL from git
+  "https://github.com/leanprover/NKL.git" @ "main"
 
 require TensorLib from git
   "https://github.com/leanprover/TensorLib.git" @ "main"
